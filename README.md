@@ -4,7 +4,7 @@ FHIR
 Status
 ------
 
-Incomplete and experimental.
+Incomplete and experimental. For the live sandbox with ongoing experimentation see (https://github.com/ibl/FHIR-Demo)[https://github.com/ibl/FHIR-Demo].
 
 
 Getting Started
